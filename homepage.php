@@ -13,7 +13,7 @@
     <?php  
 
         $title = "One Word";
-        $author = "James";
+        $author = "James Titus";
         $word_count = "2500";
         include "article.php"
     ?>
